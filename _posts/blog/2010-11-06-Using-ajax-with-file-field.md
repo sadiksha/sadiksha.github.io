@@ -13,7 +13,7 @@ To use this gem follow these simple steps
 2. Run *bundle install* from your terminal
 3. Generate remotipart for rails by running following from your terminal
 
-{% highlight text}
+{% highlight text %}
  rails generate remotipart
 {% endhighlight %}
 
