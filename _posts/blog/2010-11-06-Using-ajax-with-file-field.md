@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Ajax with file field"
+date:   2010-08-28
+categories: blog
+---
+
+Sometime ago I had real trouble using file field and ajax call together. I wanted to browse a file and display the contents in the same page. Then after some research I came across gem called [remotipart](https://github.com/JangoSteve/remotipart). My problem was solved with this gem.
+
+To use this gem follow these simple steps
+
+1. Include "gem remotipart" in your Gemfile
+2. Bundle install
+3. type this in your console: rails generate remotipart
+4. Include *jquery-1.4.2-min.js*, *rails.js*, *jquery.form.js* and *jquery.remotipart.js* as your javascript files
+5. Suppose you are using this in you new.html.erb file, then do this
+
+<%= form_for @product, :html => { :multipart => true }, :remote => true do |f| %>
+<%= f.label :file_upload %>
+<%= f.file_field :file_upload %>
+<%= f.submit %>
+<% end %>
+
+6. In your create controller include: format.js {} instead of format.html{}
+7. In *create.js.erb* file :
+
+<%= remotipart_response do %>
+//Write your javascript code here.
+<% end %>
+
+I hope this post helped you.
