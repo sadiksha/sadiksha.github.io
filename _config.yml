@@ -1,2 +1,3 @@
 name: Sadiksha Gautam
+kramdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
