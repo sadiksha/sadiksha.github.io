@@ -4,8 +4,15 @@ title:  "Brief Overview of Ruby on Rails"
 date:   2010-08-28
 categories: blog
 ---
- I still remember when we had to do our final year project, we had to write tons of code for building small application in programming languages other than on rails. However, Rails has saved the life of many programmers! In rails, we do not have to start from the scratch like making folders and files one by one. This is done by the rails itself. Write a simple rails command and all the required folders are generated. Isn't it awesome. Rails is the platform and Ruby is the programming language. The life of Ruby programmer is made easy through RubyGems, which contains files to install. They are like plugins, for example, if you want user authentication you can simply install gem called devise(I will come to this later on).
+In 2008, during my bachelor year project, me and my friends decided to create a web application. We were very new to web development and did not know about different web technologies. So, we decided to use php for creating our project. We had to create our own folder structure, struggle with database setup and set up lot of plugins manually.
 
-Moreover, Rails is based on MVC(Model, View and Controller) architecture. Models deals with data and database. View is what your user-interface will look like. Finally, controller connects the model and view. It's the job of the controller to control both the model and the view.
+Later when I learned about Rails, I was really fascinated about how our lives would have been lot easier if we had learned about the technology before. Rails is a web development framework which uses Ruby as its programming language. It has its own folder structure and conventions. So, when using rails one does not have to worry about anything. A single rails command and it does everything by itself. Isn't is wonderful? In rails there are gems which are the libraries. The gems are packages which are open source and can be used easily in a rails application. Different gems can be easily found in [ruby gem's website](https://rubygems.org/).
 
-You will find many useful materials on internet but I could not stop myself from this brief introduction to "Ruby on the Rails". Finally, welcome to the "Rails World" (apart from "Hello World" ;) ).
+Moreover, Rails follows MVC (Model, View and Controller) architecture. Models deals with data and database. View displays the contents of the website. Finally, controller connects the model and view. It's the job of the controller to control both the model and the view.
+
+There are really good tutorials on rails, you can easily find them in:
+
+* [Code school's rails tutorial](https://www.codeschool.com/search?query=Starting+Rails)
+* [Railscasts](https://railscasts.com)
+
+Welcome to the "Rails World".
