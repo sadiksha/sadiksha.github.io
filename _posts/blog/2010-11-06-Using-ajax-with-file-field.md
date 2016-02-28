@@ -9,8 +9,8 @@ Sometime ago I had real trouble using file field and ajax call together. I wante
 
 To use this gem follow these simple steps
 
-1. Include "gem remotipart" in your Gemfile
-2. Bundle install
+1. Include *gem remotipart* in your Gemfile
+2. Run *bundle install* from your terminal
 3. type this in your console: rails generate remotipart
 4. Include *jquery-1.4.2-min.js*, *rails.js*, *jquery.form.js* and *jquery.remotipart.js* as your javascript files
 5. Suppose you are using this in you new.html.erb file, then do this
