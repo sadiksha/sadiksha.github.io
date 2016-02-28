@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ajax with file field"
-date:   2010-08-28
+date:   2010-11-06
 categories: blog
 ---
 

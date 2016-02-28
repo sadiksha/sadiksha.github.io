@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Ruby Program"
-date:   2010-08-28
+date:   2010-08-29
 categories: blog
 ---
 
