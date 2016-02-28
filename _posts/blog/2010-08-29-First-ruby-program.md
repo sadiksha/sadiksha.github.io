@@ -7,9 +7,9 @@ categories: blog
 
 It is really very easy to create a first ruby program. Follow the following instructions:
 
-* Create a file called m\_first\_ruby\_program.rb
+* Create a file called my\_first\_ruby\_program.rb
 
-{% highlight ruby %}
+{% highlight text %}
 touch my_first_ruby_program.rb
 {% endhighlight %}
 
@@ -21,8 +21,9 @@ puts "Rails World"
 
 * In the terminal:
 
-
+{% highlight text %}
  ruby my_first_ruby_program.rb
+{% endhighlight %}
 
 
 You will see 'Rails World' as the output. Congratulations you just created your first ruby program.

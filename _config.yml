@@ -1,5 +1,9 @@
 name: Sadiksha Gautam
-highlighter: rouge
-
 markdown: kramdown
+
+highlighter: rouge
+syntax-highlighting:
+  enabled : true
+  css: syntax.css
+
 exclude: ["node_modules", "gulpfile.js", "package.json"]
