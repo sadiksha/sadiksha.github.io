@@ -15,17 +15,21 @@ To use this gem follow these simple steps
 4. Include *jquery-1.4.2-min.js*, *rails.js*, *jquery.form.js* and *jquery.remotipart.js* as your javascript files
 5. Suppose you are using this in you new.html.erb file, then do this
 
+{% highlight text %}
 <%= form_for @product, :html => { :multipart => true }, :remote => true do |f| %>
 <%= f.label :file_upload %>
 <%= f.file_field :file_upload %>
 <%= f.submit %>
 <% end %>
+{% endhighlight %}
 
 6. In your create controller include: format.js {} instead of format.html{}
 7. In *create.js.erb* file :
 
+{% highlight text %}
 <%= remotipart_response do %>
 //Write your javascript code here.
 <% end %>
+{% endhighlight %}
 
 I hope this post helped you.
