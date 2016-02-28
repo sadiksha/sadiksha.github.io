@@ -13,7 +13,7 @@ It is really very easy to create a first ruby program. Follow the following inst
 touch my_first_ruby_program.rb
 {% endhighlight %}
 
-* Add following to your file
+* Add following to line to your file
 
 {% highlight ruby %}
 puts "Rails World"
