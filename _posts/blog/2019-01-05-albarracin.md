@@ -13,8 +13,7 @@ Since we didn't go to Valencia by car or rent one, we were traveling by train. W
 
 When we reached Cella after around three hours, we were completely shocked at what we saw. Actually, we didn't see a single living soul there. And, guess what? We hadn't booked the taxi from Cella to Albarracin before we reached there. So, both of us had no idea about what we were going to do. Luckily, the friend of mine had a taxi app and she called one. But, the person from the taxi told us that we would have to travel with four other people and some kids. That sounded a bit strange. So, we decided that we would look for another taxi. We were just looking around at advertisements on the train station. Luckily, we saw a phone number for taxi and when we called it, he couldn't speak English and we couldn't speak Spanish, but somehow we managed to tell him that we wanted to go to Albarracin from Cella (thanks to google translator). He was a very nice man and also took us to Albarracin within a reasonable price (unfortunately, since it was a long time back, I don't remember exactly how much.) If you want to book his taxi from Cella to Albarracin, please find his contact details on this blog. 
 
-<img src=".http://sadiksha.github.io/assets/img/card.png"
-     alt="Taxi card"/>
+![taxi card image]({{site.url}}/assets/img/card.png)
 
 
 
