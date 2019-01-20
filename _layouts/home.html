@@ -6,8 +6,6 @@ layout: default
 
 {% include about.html %}
 
-{% include history.html %}
-
 <h2 id="Blog"> Blog </h2>
 <hr class="bar-blog"> </hr>
 {% for post in site.categories['blog'] limit:3%}
@@ -23,9 +21,5 @@ layout: default
 <hr class="bar-blog"> </hr>
 
 <h2 id="Blog"><a href="/posts"> More >> </a></h2>
-
-
-
-{% include contact.html %}
 
 {% include message.html %}
