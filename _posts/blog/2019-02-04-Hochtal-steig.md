@@ -13,7 +13,7 @@ For this, we stayed in a Krunckelbachhuette. This hut was on the trail. It was a
 
 <img alt="Breakfast Krunkelbachhuette" src="http://sadiksha.github.io/assets/img/hochtalsteig/Breakfast_krunkelbachhuette.JPG" width="500">
 
-So, about the hike. It was a 15 km hike. Normally people would take hike from one to seven. But, when you look at the elevation profile the elevation from a to b is too steep. And out hut was on the number 7. So we decided to take another route from seven to one. 
+So, about the hike. It was a 15.6 km hike. Normally people would take hike from one to seven. But, we were already at number 7, that is where our hut was. So, ideally we could take the trail from 7-6-5 and so on and back to 7. But, when you look at the elevation profile the elevation from 7 to 6, it is too steep for that short area. So we decided to take another route from 7-8-9 and back again to 7. Then this elevation from 6-7, we could just climb down instead of climbing up. 
 
 <img alt="Map of Hochtalsteig" src="http://sadiksha.github.io/assets/img/hochtalsteig/Map.jpg" width="500">
 
