@@ -9,7 +9,7 @@ Here comes another blog about my travels with my friends. We planned this trip a
 
 <img alt="Hochtalsteig Signs" src="http://sadiksha.github.io/assets/img/hochtalsteig/Signs.jpg" width="500">
 
-For this, we stayed in a Krunckelbachhuette. This hut was on the trail. It was a very nice place to stay but with some strange people who were hosting it. Again, this is a story for another time. Our stay there was nonetheless enjoyable. What is better than eating breakfast with your close friends and beautiful nature, right?
+For this, we stayed in a Krunkelbachhuette. This hut was on the trail. It was a very nice place to stay but with some strange people who were hosting it. Again, this is a story for another time. Our stay there was nonetheless enjoyable. What is better than eating breakfast with your close friends and beautiful nature, right?
 
 <img alt="Breakfast Krunkelbachhuette" src="http://sadiksha.github.io/assets/img/hochtalsteig/Breakfast_krunkelbachhuette.JPG" width="500">
 
