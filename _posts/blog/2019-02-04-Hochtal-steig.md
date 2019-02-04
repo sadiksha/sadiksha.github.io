@@ -5,11 +5,11 @@ date:   2019-02-04
 categories: blog
 ---
 
-Here comes another blog about my travels. For this trip we planned almost a month or two ago in advance. We wanted to hike, so we were looking to stay overnight around hiking trails. We had three days planned. However, our main goal was to hike the famous hiking trail in Bernau, Germany: Hochtal Steig. 
+Here comes another blog about my travels with my friends. We planned this trip almost a month or two ago in advance. This time the calling was from blackforest hiking trails with three days to spare. However, our main goal was to hike the famous hiking trail in Bernau, Germany: Hochtal Steig. 
 
 <img alt="Hochtalsteig Signs" src="http://sadiksha.github.io/assets/img/hochtalsteig/Signs.jpg" width="500">
 
-For this, we stayed in a Krunckelbachhuette. This hut was on the trail of Hochtal Steig. It was a very nice place to stay but with some strange people who were hosting it. Again, this is a story for another time. Our stay there was enjoyable because we could sit outside for the breakfast. What is better than eating breakfast with your close friends and beautiful nature, right?
+For this, we stayed in a Krunckelbachhuette. This hut was on the trail. It was a very nice place to stay but with some strange people who were hosting it. Again, this is a story for another time. Our stay there was nonetheless enjoyable. What is better than eating breakfast with your close friends and beautiful nature, right?
 
 <img alt="Breakfast Krunkelbachhuette" src="http://sadiksha.github.io/assets/img/hochtalsteig/Breakfast_krunkelbachhuette.JPG" width="500">
 
